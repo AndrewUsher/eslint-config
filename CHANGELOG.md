@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/AndrewUsher/eslint-config/compare/v1.1.0...v2.0.0) (2020-08-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* **config:** exhaustive-deps is warn instead of error now
+
+* **config:** move to react-hooks recommended ([4afe336](https://github.com/AndrewUsher/eslint-config/commit/4afe336456219e32b4b3df9026e83a21505de03a))
+
 ## [1.1.0](https://github.com/AndrewUsher/eslint-config/compare/v1.0.2...v1.1.0) (2020-08-09)
 
 
