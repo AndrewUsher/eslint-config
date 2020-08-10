@@ -12,5 +12,10 @@ module.exports = {
   rules: {
     'react-hooks/rules-of-hooks': ERROR,
     'react-hooks/exhaustive-deps': WARNING
+  },
+  settings: {
+    react: {
+      version: 'detect'
+    }
   }
 }
