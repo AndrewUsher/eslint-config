@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/AndrewUsher/eslint-config/compare/v2.0.0...v3.0.0) (2020-08-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* import for config needs to be changed
+
+### Features
+
+* **react:** auto detect react version ([a17445b](https://github.com/AndrewUsher/eslint-config/commit/a17445b2af3e0db7da306f1848450c978e03bd4d))
+
+
+* split out base/react config ([2a15b25](https://github.com/AndrewUsher/eslint-config/commit/2a15b254fa67b44dc9e58db45d78bb5bf3504848))
+
 ## [2.0.0](https://github.com/AndrewUsher/eslint-config/compare/v1.1.0...v2.0.0) (2020-08-09)
 
 
