@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/AndrewUsher/eslint-config/compare/v3.0.0...v3.1.0) (2021-01-12)
+
+
+### Features
+
+* add typescript config ([8f31a96](https://github.com/AndrewUsher/eslint-config/commit/8f31a96b4a485152b3437dd0d1a2470c051ca558))
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-import to v2.22.1 ([b91d505](https://github.com/AndrewUsher/eslint-config/commit/b91d5050c66a55c4572e9eca9fe92777520044d5))
+* **deps:** update dependency eslint-plugin-standard to v4.0.2 ([f42b75b](https://github.com/AndrewUsher/eslint-config/commit/f42b75b2661e8b96f551d44d23c299a99a6d2534))
+
 ## [3.0.0](https://github.com/AndrewUsher/eslint-config/compare/v2.0.0...v3.0.0) (2020-08-10)
 
 
