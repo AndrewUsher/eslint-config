@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.1](https://github.com/AndrewUsher/eslint-config/compare/v3.1.0...v3.1.1) (2021-01-12)
+
+
+### Bug Fixes
+
+* add eslint plugin as deps ([5cc057c](https://github.com/AndrewUsher/eslint-config/commit/5cc057c00e3bcf5ea86e5a49ea16a12ec13cb8b5))
+
 ## [3.1.0](https://github.com/AndrewUsher/eslint-config/compare/v3.0.0...v3.1.0) (2021-01-12)
 
 
