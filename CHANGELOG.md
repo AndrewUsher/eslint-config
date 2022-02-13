@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.2.0](https://github.com/AndrewUsher/eslint-config/compare/v3.1.1...v3.2.0) (2022-02-13)
+
+
+### Features
+
+* add new rule for module boundary types ([279b1e5](https://github.com/AndrewUsher/eslint-config/commit/279b1e59b6e474c256381e4bfe305cb56d153546))
+
 ### [3.1.1](https://github.com/AndrewUsher/eslint-config/compare/v3.1.0...v3.1.1) (2021-01-12)
 
 
