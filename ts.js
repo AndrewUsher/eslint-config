@@ -6,5 +6,8 @@ module.exports = {
   extends: ['eslint:recommended', 'plugin:@typescript-eslint/recommended'],
   rules: {
     '@typescript-eslint/explicit-module-boundary-types': OFF,
+    // note you must disable the base rule as it can report incorrect errors
+    'no-use-before-define': OFF,
+    '@typescript-eslint/no-use-before-define': ['error'],
   },
 }
