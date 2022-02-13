@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.2.1](https://github.com/AndrewUsher/eslint-config/compare/v3.2.0...v3.2.1) (2022-02-13)
+
+
+### Bug Fixes
+
+* **ts:** disable default eslint-no-use-before-define rule ([aece4ae](https://github.com/AndrewUsher/eslint-config/commit/aece4ae8beb4de30db081c5911078dc4b28a4fe5))
+
 ## [3.2.0](https://github.com/AndrewUsher/eslint-config/compare/v3.1.1...v3.2.0) (2022-02-13)
 
 
