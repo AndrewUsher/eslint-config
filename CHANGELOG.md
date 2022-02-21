@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/AndrewUsher/eslint-config/compare/v3.2.1...v4.0.0) (2022-02-21)
+
+
+### Bug Fixes
+
+* move eslint to peer dependencies ([ca625d2](https://github.com/AndrewUsher/eslint-config/commit/ca625d2970588b39be913aeec57191dd9f63651e))
+* **deps:** update dependency eslint-config-standard to v16 ([8fce15c](https://github.com/AndrewUsher/eslint-config/commit/8fce15c8141f9bc142d1b5a081fabd9af22bced2))
+* **deps:** update dependency eslint-plugin-import to v2.25.4 ([d986343](https://github.com/AndrewUsher/eslint-config/commit/d986343aa86444ab6e7dfbc586ae17ca2f476c10))
+* **deps:** update dependency eslint-plugin-promise to v4.3.1 ([01304d6](https://github.com/AndrewUsher/eslint-config/commit/01304d6004f28186ec0e53fa6387645771113f8c))
+* **deps:** update dependency eslint-plugin-promise to v6 ([ba7503d](https://github.com/AndrewUsher/eslint-config/commit/ba7503d9676ba08756bdd812bdeed7fc30e421aa))
+* **deps:** update dependency eslint-plugin-standard to v4.1.0 ([e007fd3](https://github.com/AndrewUsher/eslint-config/commit/e007fd3f23222b1e30a7bfb7ee5765d26469dfb5))
+* **deps:** update typescript-eslint monorepo to v5 ([91aca02](https://github.com/AndrewUsher/eslint-config/commit/91aca023d748017c0e43c871a2f1bbd9fd34ad29))
+
 ### [3.2.1](https://github.com/AndrewUsher/eslint-config/compare/v3.2.0...v3.2.1) (2022-02-13)
 
 
