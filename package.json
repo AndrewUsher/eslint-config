@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "prettier": "2.5.1",
-    "standard-version": "9.3.2"
+    "standard-version": "9.5.0"
   },
   "peerDependencies": {
     "eslint": ">=8.0.0"
