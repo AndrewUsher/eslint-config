@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.0.2](https://github.com/AndrewUsher/eslint-config/compare/v5.0.1...v5.0.2) (2022-05-30)
+
+
+### Bug Fixes
+
+* add prettier support back ([6f92106](https://github.com/AndrewUsher/eslint-config/commit/6f92106a57ac3c85ecfd7ba29d6eb4247b4a5a7a))
+
 ### [5.0.1](https://github.com/AndrewUsher/eslint-config/compare/v5.0.0...v5.0.1) (2022-05-30)
 
 
