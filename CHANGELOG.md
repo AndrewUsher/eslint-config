@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.0.3](https://github.com/AndrewUsher/eslint-config/compare/v5.0.2...v5.0.3) (2022-05-30)
+
+
+### Bug Fixes
+
+* remove conflicting rule ([bbf29fd](https://github.com/AndrewUsher/eslint-config/commit/bbf29fdd2c51323f577ae673d32475c40d99fb95))
+
 ### [5.0.2](https://github.com/AndrewUsher/eslint-config/compare/v5.0.1...v5.0.2) (2022-05-30)
 
 
