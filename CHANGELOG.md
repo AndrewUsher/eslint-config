@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.0.1](https://github.com/AndrewUsher/eslint-config/compare/v5.0.0...v5.0.1) (2022-05-30)
+
+
+### Bug Fixes
+
+* remove unused deps ([db5330e](https://github.com/AndrewUsher/eslint-config/commit/db5330ebde397e0b82328aade8532a043af8c792))
+
 ## [5.0.0](https://github.com/AndrewUsher/eslint-config/compare/v4.0.0...v5.0.0) (2022-05-30)
 
 
