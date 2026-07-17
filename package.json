@@ -25,7 +25,7 @@
     "prettier-plugin-tailwindcss": "0.5.3"
   },
   "devDependencies": {
-    "standard-version": "9.5.0"
+    "commit-and-tag-version": "9.5.0"
   },
   "peerDependencies": {
     "eslint": ">=8.0.0"
